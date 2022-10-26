@@ -1,5 +1,6 @@
 # web_challenge3
-Hello, and welcome to my Recipe Website. Try not to be to taken back by all of the marvelous styling...
+Description
+Hello, World! and welcome to my Recipes Website. Try not to be to taken back by all of the marvelous special effects...
 There are three seperate and different recipes to three seperate dishes, in three seperate files, all linked to the recipe index file
 - Lasagna
 - Tacos
