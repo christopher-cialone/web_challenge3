@@ -1,4 +1,14 @@
-/*body {
+
+/*this is still in progress, ran out of time before class to push the final product
+ ID selectors
+    Class selectors
+    Type selectors
+    An HTML element with multiple classes   
+    At least two classes with shared rules, grouped together
+    Chained selectors
+    Descendant Combinators (obnoxiously fancy name)
+    CSS Inheritance */
+body {
     background-color:antiquewhite
 }
 h1 {
@@ -13,5 +23,10 @@ p {
     font-size: small;
     font-style: normal;
     color: black;
-}
-the above is commented out in order to keep web-challenge 3 and 4 seperated */
+} 
+/*
+#para1 {
+    text-align: center;
+    color: red;
+  } */
+/* To select an element with a specific id, write a hash character, followed by the id of the element*/
