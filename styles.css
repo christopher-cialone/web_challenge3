@@ -1,2 +1,43 @@
 
-/* To select an element with a specific id, write a hash character, followed by the id of the element*/
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#title  {
+    background-color: rgb(171, 75, 83);
+}
+
+    
+
+a{
+    margin: 10px;
+    color: black;
+    font-size: 25px;
+}
+
+h1{
+    text-align: cneter;
+    font-size: 50px;
+
+h3{
+    text-align: cneter;
+    font-size: 25px;
+    margin: 0;
+}
+
+ol{
+    margin: 10px;
+    font-size: 20px;
+    font-style: italic;
+}
+p{
+    text-align: cneter;
+    font-size: 25px;
+    margin: 0;
+}
+
+}
+
